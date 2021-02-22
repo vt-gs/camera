@@ -1,0 +1,22 @@
+[
+  {
+    "cam_name":"Federal VHF/UHF",
+    "hires_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/101",
+    "lowres_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/102"
+  },
+  {
+    "cam_name":"Overview",
+    "hires_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/201",
+    "lowres_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/202"
+  },
+  {
+    "cam_name":"3.0m Dish",
+    "hires_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/301",
+    "lowres_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/302"
+  },
+  {
+    "cam_name":"MIST Sensor1",
+    "hires_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/401",
+    "lowres_url":"rtsp://public:cubesatell1te@198.82.154.114:9000/PSIA/streaming/channels/402"
+  }
+]
